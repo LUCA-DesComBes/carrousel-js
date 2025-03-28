@@ -1,0 +1,14 @@
+[
+    {
+        "image": "./asset/photo1.jpg",
+        "alt": "photo-JP"
+    },
+    {
+        "image": "./asset/photo2.jpg",
+        "alt": "photo-JP"
+    },
+    {
+        "image": "./asset/photo3.jpg",
+        "alt": "photo-JP"
+    }
+]
